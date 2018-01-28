@@ -1,3 +1,5 @@
+// Affiche une représentation graphique animé des résultats de la table de multiplication x modulo y.
+
 //valeurs par défaut des paramètres
 var epaisseur=2;	// epaisseur des lignes tracées en px
 var colorLine = "#000"; // couleur des lignes tracées
