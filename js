@@ -1,0 +1,1 @@
+/home/lix/Divers/dev/hakoro/inc/js
